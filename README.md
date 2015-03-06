@@ -22,6 +22,6 @@ tiddlywiki no-fi-prototype --server
 ## Best Practices ##
 *(to be integrated into the prototyping framework)*
 
-- I try to type in a verbal description of what I intend on displaying. This hearkens back to those text-based adventure computer games.
+- I try to type in a verbal description of what I intend on displaying. This harkens back to those text-based adventure computer games.
 - (probably, there is some easy way to actually make Tiddlywiki output buttons and stuff. Haven't learned how to do that just yet, but I'm pretty sure it's possible. Fork this project and teach us!)
 
