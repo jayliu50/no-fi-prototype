@@ -11,7 +11,9 @@ It uses TiddlyWiki in order to rapidly prototype using the keyboard only.
 [sudo] npm install -g tiddlywiki
 ```
 
-**2.** Navigate just *outside* the `no-fi-prototype` directory. Then run this command
+**2.** Download zip file of this repository and expand it
+
+**3.** Navigate just *outside* the `no-fi-prototype` directory. Then run this command
 
 ```
 tiddlywiki no-fi-prototype --server
